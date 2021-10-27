@@ -50,4 +50,42 @@ h2,p{
 img{
 	align="center "
 }
+.flag{
+	width: 500px;
+	height: 300px;
+	margin: 0 auto;
+	background: green;
+	border: 2px solid white;
+	display: flex;
+	justify-content: center;
+align-items: center;
+}
+.circle{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	background: red;
+}
+p{
+	color: white;
+}
+.ractangle{
+	width: 500px;
+	height: 300px;
+	background: green;
+	margin: 0 auto;
+
+}
+.ractangle1{
+	width: 100px;
+	height: 25px;background: red;
+	display: flex;
+	justify-content: center;
+	
+}
+.ractangle2{
+	width: 200px;
+	height: 25px;background: orange;
+	
+}
 
