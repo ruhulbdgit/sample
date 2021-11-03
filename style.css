@@ -11,10 +11,13 @@ a : hover{
 	transition: cubic-bezier(0.075, 0.82, 0.165, 1) ;
 	background-color: brown;
 }
+
 .container{
-	width: 85%;
+	width: 100%;
 	background-color: blueviolet;
+	display: flex;
 }
+
 .left{
 width: 50%;
 height: auto;
